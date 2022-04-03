@@ -6,6 +6,7 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import com.nasa.apod.repo.APIService
 import kotlinx.coroutines.launch
 
 class ApodViewModel : ViewModel() {

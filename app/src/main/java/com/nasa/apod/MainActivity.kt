@@ -96,7 +96,7 @@ fun ApodView(vm: ApodViewModel) {
                     Text(
                         vm.apod.value.explanation,
                         modifier = Modifier.fillMaxWidth(),
-                        maxLines = 20,
+                        maxLines = 100,
                         overflow = TextOverflow.Ellipsis,
                         fontSize = 15.sp
                     )
