@@ -2,7 +2,7 @@
 An assessment, I am trying my best to present my mobile development skills.
 
 ## Framework and library used 
-- With this assignment I explored Jetpack Compose for the first time, feeling bit confident now. I belive this is not the best and can be improved :)
+- With this assignment I explored Jetpack Compose for the first time, feeling bit confident now. I belive this is not the best I can improve it a lot :)
 - Retrofit for API services
 - ViewModel for presentation logic
 - Okhttp for caching mechanism
